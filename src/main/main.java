@@ -1,8 +1,8 @@
-package pruebadatechoose;
+package main;
 
 import Prueba.Test;
 
-public class PruebaDateChoose {
+public class main {
 
     public static void main(String[] args) {
         Test a = new Test();
